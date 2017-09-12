@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">retrofit2</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="input_age">Age</string>
+    <string name="input_topics">Topics</string>
+    <string name="btn_signup">Send</string>
+</resources>
